@@ -1,1 +1,2 @@
 Ahoj světe. Toto je první test společné práce ToMa, AERIS a GitHubu.
+Tento řádek vznikl při prvním testu úpravy souboru.
